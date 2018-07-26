@@ -18,6 +18,6 @@ function iLoveTheBeatles(number){
   do {
     emptyArray[0] = "I love the Beatles!";
     number++; 
-  } while (number < 17) 
+  } while (number < 15) 
     return emptyArray; 
 }
